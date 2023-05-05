@@ -9,7 +9,8 @@ webpage: https://tianzevincentluo.github.io
 experience: # Remove for hiding the experience section
   - start: 2019-08
     end: 2021-05
-    experience : Case Western Reserve Univerisity
+    experience : Case Western Reserve Univerisity <br>
+                 Major in Biochemistry, pre-med track
   - start: 2021-08
     end: 2024-05 (Expected)
     experience : Emory University <br>
