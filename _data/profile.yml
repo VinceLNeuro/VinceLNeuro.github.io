@@ -1,19 +1,33 @@
-image: assets/img/smile.png
-username: Christoph Jabs
-description: creator of the Grape-Academic-Theme! Grape-Academic-Theme is a modification of the Grape-Theme by naye0ng, making it more suitable as an academic portfolio.
-webpage: https://chrjabs.github.io
+image: assets/img/vince_selfie2.png
+username: Vincent (Tianze) Luo
+description: <p> 4th-year undergraduate student at Emory University majoring in 
+  Neuroscience and Biology and has a solid background in statistical data analysis.
+  Vincent has a strong interest in understanding brain illnesses and sleep disorders pathogenesis. </p>
+  Currently working as Undergraduate researcher in [Wingo Lab](https://www.wingolab.org/)
+webpage: https://tianzevincentluo.github.io
+
 experience: # Remove for hiding the experience section
-  - start: 2017-05-03
-    end: 2018-05-06
-    experience : company name, title
+  - start: 2019-08
+    end: 2021-05
+    experience : Case Western Univerisity
+  - start: 2021-08
+    end: 2024-05 (Expected)
+    experience : Emory University <br>
+                 B.S. in Neuroscience and Behavior Biology <br>
+                 B.S. in Biology
+
 interests: # Remove for hiding the interests section
-  - Interest 1
-  - Interest 2
+  - Bidirection relationship between Alzheimer's Disease (AD) and sleep
+  - Understanding genetics' effect on AD and other neuropathologies through genomics data analysis
 skills: # Remove for hiding the skills section
-  - skill: HTML5 & CSS
-    value: 85  # Percent value
+  - R Programming
+  - Python
+  - MATLAB
+  - PostgreSQL
+    #value: 85  # Percent value
+
 social:
-  email:  # Full email address, e.g. "sample@google.com"
+  email: tluo35@emory.edu # Full email address, e.g. "sample@google.com"
   orcid: 
   scholar: 
   publons: 
@@ -21,14 +35,15 @@ social:
   dblp:  # Full URL
   semantic_scholar:  # Full URL
   linkedin:  # Full URL 
-  github: chrjabs
+  github: VinceLNeuro
   gitlab: 
-  bitbucket: chrjabs
+  bitbucket:
   google_plus:
-  mastodon: https://mastodon.social
-  twitter: chrjabs
+  mastodon:
+  twitter:
   youtube:
   facebook:
-  instagram:
+  instagram: vincent_ltzz
+
 awards: # Remove for hiding the awards section
-  - "This is an award I got"
+  - "QTM 151 - Intro. to Stat. Computing II (Python)"

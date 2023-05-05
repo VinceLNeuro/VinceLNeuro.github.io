@@ -1,12 +1,15 @@
 ---
 layout: post
-title: Sample Post with Markdown
+title: Test
 subtitle : How markdown is displayed as html
-tags: [Sample Post, Demo]
-author: Nayeong Kim
+tags: [Demo]
+author: Vincent (Tianze) Luo
 comments : True
 ---
 
+<h2>Test</h2>
+
+<!-- 
 This post show result from awesome Markdown techniques like jekyll. 
 `Jekyll` supports to transform your plain text into static websites and blogs. 
 
@@ -103,4 +106,4 @@ Try using `.width-30`, `.width-40`, `.width-50`, `.width-60`, `.width-70` and `.
 | Header 1  | Header 2 | Header 3 |
 | :------- | :-------: | -------: |
 | Content 1 | Content 2 | Content 3 |
-| Content 1 | Content 2 | Content 3 |
+| Content 1 | Content 2 | Content 3 | -->

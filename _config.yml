@@ -1,39 +1,35 @@
 # Site Settings
-baseurl: "/Grape-Academic-Theme"
+baseurl: ""
 
 # Features Setting
 # Turn subpages on or off
 publications: True
-presentations: True
+presentations: False
 blog: True
 
 # Language of the website
 lang: en
 
 # Search engine optimization settings
-title: Grape Academic Theme
-tagline: A jekyll theme for academic portfolios
-description: The demonstration page for the Grape Academic Theme, a jekyll theme for academic portfolios based on the Grape Theme.
-author: Christoph Jabs (chrjabs)
-twitter:
-  username: chrjabs
-  card: A jekyll theme for academic portfolios
-logo: /assets/img/smile.png
+title: Vincent (Tianze) Luo personal website
+tagline: Neuroscience student at Emory University
+description: A academic personal website for Vincent (Tianze) Luo
+author: Vincent (Tianze) Luo
+# logo:
 social:
-  name: Christoph Jabs
+  name: Vincent (Tianze) Luo
   links:
-    - https://twitter.com/chrjabs
-    - https://github.com/chrjabs
+    - https://github.com/VinceLNeuro
 locale: en_GB
 
 # Page Settings
 theme_settings:
   title: Grape Academic Theme
 
-  experience_title: EXPERIENCE
+  experience_title: EDUCATION EXPERIENCE
   interests_title: RESEARCH INTERESTS
-  skills_title: SKILLS
-  awards_title: AWARDS
+  skills_title: CODING SKILLS
+  awards_title: TEACHING ASSITANT EXPERIENCE
   projects_title: PROJECTS
   recentpubs_title: RECENT PUBLICATIONS
 
@@ -55,8 +51,8 @@ scholar:
   bibliography_template: pubstemplate
   style: apa
   locale: en
-  last_name: Me
-  first_name: [Myself, M.]
+  last_name: Luo
+  first_name: [Tianze, T.]
   sort_by: year,month
   order: descending,ascending
 
