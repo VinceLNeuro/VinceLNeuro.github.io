@@ -87,6 +87,9 @@ These are step-by-step instructions for forking and publishing the theme at your
 5. Commit the change and (with a working jekyll install) run `_scripts/publish.sh`
 6. _Wait a couple of minutes_ and the demo content will show up at `<username>.github.io`
 
+---
+<span style = "color:darkblue; font-size = 3mm"> ***After each publish, switch `Pages` -> `Branch` back to `master`. Whenever want to publish agin -> switch to `gh-pages`*** </span>
+
 ## Customizing
 
 Grape-Theme has two great features: the profile section and the project section of the portfolio page. Just by changing `_config.yml` and `projects.yml`, you can use all of these features.
