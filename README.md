@@ -84,6 +84,8 @@ These are step-by-step instructions for forking and publishing the theme at your
   There, change the source for github pages to the `gh-pages` branch of the repository.
 3. Clone the repository and go through the installation steps listed above
 4. In `_config.yml`, change the `baseurl` option to an empty string (`""`) to host the webpage in the root of your `github.io` page
+
+* If not working, switch the branch to `master` and back to `gh-pages`.
 5. Commit the change and (with a working jekyll install) run `_scripts/publish.sh`
 6. _Wait a couple of minutes_ and the demo content will show up at `<username>.github.io`
 
