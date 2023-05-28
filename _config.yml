@@ -11,13 +11,13 @@ blog: True
 lang: en
 
 # Search engine optimization settings
-title: Vincent (Tianze) Luo personal website
+title: Tianze (Vincent) Luo personal website
 tagline: Neuroscience student at Emory University
-description: A academic personal website for Vincent (Tianze) Luo
-author: Vincent (Tianze) Luo
+description: An academic personal website for Tianze (Vincent) Luo
+author: Tianze (Vincent) Luo
 # logo:
 social:
-  name: Vincent (Tianze) Luo
+  name: Tianze (Vincent) Luo
   links:
     - https://github.com/VinceLNeuro
 locale: en_GB
