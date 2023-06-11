@@ -3,7 +3,6 @@
 <li>
   <a href="mailto:{{ social.email | encode_email }}" target="_blank" title="Email">
     <i class="fas fa-envelope"></i>
-    <span>Work</span>
   </a>
 </li>
 {% endif %}
@@ -11,8 +10,7 @@
 {% if social.personal_email %}
 <li>
   <a href="mailto:{{ social.personal_email | encode_email }}" target="_blank" title="Personal Email">
-    <i class="fas fa-envelope"></i>
-    <span>Personal</span>
+    <i class="far fa-envelope"></i>
   </a>
 </li>
 {% endif %}
