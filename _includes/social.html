@@ -1,7 +1,7 @@
 {% assign social = site.data.profile.social %}
 {% if social.email %}
 <li>
-  <a href="mailto:{{ social.email }}" target="_blank" title="Email">
+  <a href="mailto:{{ social.email | encode_email }}" target="_blank" title="Email">
     <i class="fas fa-envelope"></i>
   </a>
 </li>
@@ -9,8 +9,9 @@
 
 {% if social.personal_email %}
 <li>
-  <a href="mailto:{{ social.personal_email }}" target="_blank" title="Personal Email">
+  <a href="mailto:{{ social.personal_email | encode_email }}" target="_blank" title="Personal Email">
     <i class="far fa-envelope"></i>
+    personal
   </a>
 </li>
 {% endif %}
