@@ -1,7 +1,7 @@
 image: assets/img/vince_selfie2.png
 username: Tianze (Vincent) Luo
-description: <p> 4th-year undergraduate student at Emory University majoring in 
-  Neuroscience and Biology and has a solid background in statistical data analysis.
+description: <p> Undergraduate student at Emory University majoring in 
+  Neuroscience and Biology with a solid background in statistical data analysis.
   Vincent has a strong interest in understanding brain illnesses and sleep disorders pathogenesis. </p>
   Currently working as Undergraduate researcher in [Wingo Lab](https://www.wingolab.org/)
 webpage: https://tianzevincentluo.github.io
@@ -35,7 +35,7 @@ social:
   research_gate: 
   dblp:  # Full URL
   semantic_scholar:  # Full URL
-  linkedin:  # Full URL 
+  linkedin: https://www.linkedin.com/in/tianze-luo-817b2927a/ # Full URL 
   github: VinceLNeuro
   gitlab: 
   bitbucket:
