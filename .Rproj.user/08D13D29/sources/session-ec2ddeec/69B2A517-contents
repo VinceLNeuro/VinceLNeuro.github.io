@@ -1,0 +1,9 @@
+*.gem
+.bundle
+.sass-cache
+_site
+Gemfile.lock
+.jekyll-cache/
+.Rproj.user
+
+VinceLNeuro.github.io.Rproj
