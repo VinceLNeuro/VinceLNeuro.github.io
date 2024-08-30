@@ -49,5 +49,6 @@
       path: brain_gene.jpg # path: assets/project/
     date: 07/2022 &ndash; Developing
     title: Wingo Lab Research Project
-    summary: miRNA Differential Analysis
-    description: A genomics project investigating how miRNA expression is associated with various brain pathologies
+    summary: Brain miRNA Differential Expression Analysis
+    description: A transcriptomics project investigating brain miRNAs differentially 
+    expressed in various brain pathologies
