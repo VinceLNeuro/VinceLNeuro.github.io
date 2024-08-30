@@ -42,13 +42,12 @@
 #     description:  
 
 - project:
-    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-    modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
+    print: true # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
+    modal: true # If 'True' is selected, modal can open in 'portfolio.html'. 
     url: https://www.wingolab.org/
     image: 
       path: brain_gene.jpg # path: assets/project/
     date: 07/2022 &ndash; Developing
     title: Wingo Lab Research Project
-    summary: Brain miRNA Differential Expression Analysis
-    description: A transcriptomics project investigating brain miRNAs differentially 
-    expressed in various brain pathologies
+    summary: Brain microRNA Differential Expression Analysis
+    description: A transcriptomics project investigating brain miRNAs differentially expressed in various brain pathologies

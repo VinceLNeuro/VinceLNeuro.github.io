@@ -1,14 +1,10 @@
 image: assets/img/vince_selfie2.png
-username: Tianze "Vincent"" Luo
-description: <p> Human Genetics PhD Student and Graduate Student Researcher at 
-  University of Pittsburgh | Undergraduate Researcher at Wingo Lab </p>
+username: Tianze "Vincent" Luo
+description: |
+  Human Genetics PhD Student and Graduate Student Researcher at [University of Pittsburgh 
+  School of Public Health](https://www.publichealth.pitt.edu/hugen) | 
+  Undergraduate Researcher in [Wingo Lab](https://www.wingolab.org/)
 
-  <p> With a solid foundation in human genetics, neurobiology, and statistical modeling, 
-  my current research interest focuses on understanding the genetic basis of complex 
-  human diseases through computational/statistical genetics, 
-  with an emphasis on neurodegenerative diseases. </p>
-  
-  Worked as Undergraduate researcher in [Wingo Lab](https://www.wingolab.org/)
 webpage: https://tianzevincentluo.github.io
 
 experience: # Remove for hiding the experience section
@@ -19,16 +15,20 @@ experience: # Remove for hiding the experience section
   - start: 2021-08
     end: 2024-05
     experience : Emory University <br>
-                 B.S. in Neuroscience and Behavior Biology (with Highest Honors) <br>
-                 B.S. in Biology
+                 B.S. in Neuroscience and Behavior Biology (With Highest Honors), Biology <br>
   - start: 2024-08
     end: 2029-05 (Expected)
     experience : University of Pittsburgh <br>
                  Ph.D. in Human Genetics <br>
 
 interests: # Remove for hiding the interests section
-  - Bidirection relationship between Alzheimer's Disease (AD) and sleep
-  - Understanding genetics' effect on AD and other neuropathologies through genomics data analysis
+  - Understand the genetic basis of complex human diseases, with an emphasis on neurological conditions (neurodegenerative/psychiatric and neurodevelopmental diseases)
+  - Statistical Genetics
+  - GWAS & PRS
+  - Transcriptomcis (Single-cell RNA-seq, Bulk RNA-seq)
+  - Multi-omics Data Analysis
+  - Bi-direction relationship between Alzheimer's Disease (AD) and sleep
+
 skills: # Remove for hiding the skills section
   - R Programming
   - Python
