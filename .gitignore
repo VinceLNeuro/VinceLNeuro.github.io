@@ -4,3 +4,6 @@
 _site
 Gemfile.lock
 .jekyll-cache/
+.Rproj.user
+
+VinceLNeuro.github.io.Rproj
