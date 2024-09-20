@@ -18,7 +18,7 @@ experience: # Remove for hiding the experience section
                  Ph.D. in Human Genetics <br>
 
 interests: # Remove for hiding the interests section
-  - Understand the genetic basis of complex human diseases, with an emphasis on neurological conditions (neurodegenerative/psychiatric and neurodevelopmental diseases)
+  - Understand the genetic basis of complex human diseases, including neurodegenerative and psychiatric diseases, dental problems, cancer, etc.)
   - Statistical Genetics
   - GWAS & PRS
   - Transcriptomcis (Single-cell RNA-seq, Bulk RNA-seq)
@@ -27,7 +27,8 @@ interests: # Remove for hiding the interests section
 
 skills: # Remove for hiding the skills section
   - R Programming
-  - Shell Scripting in Unix & Linux (Linux cluster with Slurm, AWS)
+  - Shell Scripting in Unix & Linux <br>
+    (Linux cluster with Slurm, Amazon Web Services)
   - Python
   - MATLAB
   - Java
@@ -56,4 +57,8 @@ social:
 
 awards: # Remove for hiding the awards section
   - "Emory University: <br>
-  Introduction to Statistical Computing II (Python)"
+  1. Introduction to Statistical Computing II (Python)"
+
+  - "University of Pittsburgh: <br>
+  Coming soon ...
+  "
