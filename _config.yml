@@ -26,10 +26,10 @@ locale: en_GB
 theme_settings:
   title: Grape Academic Theme
 
-  experience_title: EDUCATION EXPERIENCE
+  experience_title: EDUCATION
   interests_title: RESEARCH INTERESTS
   skills_title: CODING SKILLS
-  awards_title: TEACHING ASSITANT EXPERIENCE
+  awards_title: EXPERIENCE
   projects_title: PROJECTS
   recentpubs_title: RECENT PUBLICATIONS
 

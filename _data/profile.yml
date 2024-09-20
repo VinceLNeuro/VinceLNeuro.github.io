@@ -23,10 +23,11 @@ interests: # Remove for hiding the interests section
   - GWAS & PRS
   - Transcriptomcis (Single-cell RNA-seq, Bulk RNA-seq)
   - Multi-omics Data Analysis
-  - Bi-direction relationship between Alzheimer's Disease (AD) and sleep
+  # - Bi-direction relationship between Alzheimer's Disease (AD) and sleep
 
 skills: # Remove for hiding the skills section
   - R Programming
+  - Shell Scripting in Unix & Linux (Linux cluster with Slurm, AWS)
   - Python
   - MATLAB
   - Java
